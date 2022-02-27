@@ -1,2 +1,1 @@
-# lgm-task2
-LGM Intern web develoment
+# LGMVIP-WebDev-Task-2
